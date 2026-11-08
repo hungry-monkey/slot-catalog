@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDEs
+.idea/
+.vscode/
+
+# Large databases, executables, and archives
+*.mdb
+*.ldb
+*.exe
+*.zip
+
+# Third-party theses, templates, and copyrighted textbooks
+*.odt
+*.pdf
+!Tesina_Andrei_Carp.pdf
+
+# Scratch files
+xx.xlsx
